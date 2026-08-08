@@ -67,7 +67,4 @@ The dashboard demonstrates how predictive analytics can improve campaign perform
 Power BI — dashboard design and visualization
 Bank Marketing Dataset (Kaggle) — source data
 
-📁 Repository Contents
-Power BI dashboard file (.pbix)
-Dashboard screenshots
-Project documentation
+

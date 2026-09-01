@@ -64,5 +64,5 @@ Use predictive targeting — focus on high-engagement groups and avoid low-proba
 The dashboard demonstrates how predictive analytics can improve campaign performance. By combining customer segmentation, behavioral insights, and predictive indicators, the organization can shift from mass marketing to targeted marketing — resulting in higher response rates, better ROI, and more efficient resource allocation.
 
 🛠️ Tools Used
-Power BI — dashboard design and visualization
-Bank Marketing Dataset (Kaggle) — source data
+Power BI : dashboard design and visualization
+Bank Marketing Dataset (Kaggle) : source data
